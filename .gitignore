@@ -4,3 +4,6 @@ node_modules/
 coverage/
 NoteJest.md
 secret/
+.DS_Store*
+.idea
+dist
